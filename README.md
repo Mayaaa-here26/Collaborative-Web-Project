@@ -8,7 +8,7 @@
 # Collaborative Web Project (GitHub + HTML)
 
 ### 🎯 Objective
-To practice real teamwork on GitHub by creating individual HTML profile pages inside a shared repository using Bootstrap. This lab demonstrates how to add collaborators, commit changes, and sync updates within a small team.
+To practice real dsjdvcd teamwork on GitHub by creating individual HTML profile pages inside a shared repository using Bootstrap. This lab demonstrates how to add collaborators, commit changes, and sync updates within a small team.
 
 ---
 
